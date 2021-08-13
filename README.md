@@ -1,2 +1,2 @@
 # Tableau-Visualizations
-Practice dashboards/stories in Tableau
+Real world projects in Tableau for practice.
